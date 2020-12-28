@@ -1,0 +1,30 @@
+body {
+    background-color: #393E46;
+   
+}
+
+h1 {
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    font-weight: bold;
+    margin: 100px auto;
+}
+
+.player1 {
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+.player2 {
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+.footer {
+    color: #ffffff;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1rem;
+}
